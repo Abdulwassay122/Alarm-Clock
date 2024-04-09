@@ -1,0 +1,34 @@
+@media only screen and (max-width: 600px) {
+  
+    #heading {
+        font-size: 20px;
+    }
+    #time {
+        display: flex;
+        flex-direction: row;
+        width: 175px;
+    }
+    #button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 105px;
+    }
+    #heading {
+      font-size: 25px;
+      margin-left: 200px;
+      width: 380px;
+    }
+    #clock{
+      margin-left: 185px;
+    }
+    #hour{
+      width: 215px;
+    }
+    #text {
+        font-size: 25px;
+        margin: 12px 0px;
+        width: 370px;
+        margin-left: 170px;
+    }
+  }
